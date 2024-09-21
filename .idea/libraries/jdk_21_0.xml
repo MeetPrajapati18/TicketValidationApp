@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="jdk-21.0">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/Downloads/bellsoft-jdk21.0.4+9-windows-amd64/jdk-21.0.4" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/bellsoft-jdk21.0.4+9-windows-amd64/jdk-21.0.4" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/bellsoft-jdk21.0.4+9-windows-amd64/jdk-21.0.4" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/bellsoft-jdk21.0.4+9-windows-amd64/jdk-21.0.4" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/bellsoft-jdk21.0.4+9-windows-amd64/jdk-21.0.4" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/bellsoft-jdk21.0.4+9-windows-amd64/jdk-21.0.4" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/bellsoft-jdk21.0.4+9-windows-amd64/jdk-21.0.4" recursive="false" type="SOURCES" />
+  </library>
+</component>

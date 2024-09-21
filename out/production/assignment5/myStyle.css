@@ -1,0 +1,20 @@
+.root {
+    -fx-background-color: wheat;
+    -fx-alignment: center;
+    -fx-background-radius: 0;
+}
+
+.label {
+    -fx-font-size: 15pt;
+    -fx-text-fill: green;
+    -fx-font-family: "Arial";
+    -fx-padding: 10;
+}
+
+.button{
+    -fx-text-fill: blue;
+    -fx-background-color: white;
+    -fx-border-radius: 5;
+    -fx-font-size: 2em;
+    -fx-border-color: blue
+}
